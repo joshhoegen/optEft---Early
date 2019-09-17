@@ -1,0 +1,22 @@
+{
+  "welcome": {
+    "text": "welcome",
+    "color": "black"
+  },
+  "responseCorrect": {
+    "text": "That is correct",
+    "color": "green"
+  },
+  "default": {
+    "text": "Answer as quickly as possible",
+    "color": "black"
+  },
+  "responseWrong": {
+    "text": "That is incorrect",
+    "color": "red"
+  },
+  "responseTimeout": {
+    "text": "You ran out of time",
+    "color": "red"
+  }
+}
